@@ -1,0 +1,3 @@
+/home/owen/Desktop/COSC 2030/Lab 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/owen/Desktop/COSC 2030/Lab 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/owen/Desktop/COSC 2030/Lab 2/cmake-build-debug/CMakeFiles/Lab_2.dir

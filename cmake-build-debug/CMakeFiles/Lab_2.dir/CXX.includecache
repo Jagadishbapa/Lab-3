@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/owen/Desktop/COSC 2030/Lab 2/LinkedList.cpp
+LinkedList.h
+/home/owen/Desktop/COSC 2030/Lab 2/LinkedList.h
+utility
+-
+
+/home/owen/Desktop/COSC 2030/Lab 2/LinkedList.h
+iostream
+-
+Node.h
+/home/owen/Desktop/COSC 2030/Lab 2/Node.h
+
+/home/owen/Desktop/COSC 2030/Lab 2/ListProcessor.cpp
+LinkedList.h
+/home/owen/Desktop/COSC 2030/Lab 2/LinkedList.h
+
+/home/owen/Desktop/COSC 2030/Lab 2/Node.cpp
+Node.h
+/home/owen/Desktop/COSC 2030/Lab 2/Node.h
+
+/home/owen/Desktop/COSC 2030/Lab 2/Node.h
+iostream
+-
+
